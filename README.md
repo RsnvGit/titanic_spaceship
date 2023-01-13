@@ -10,3 +10,5 @@ In this project used two algoritms such as 1.Gaussian Naive Bayes and 2.XGBoost.
 1.Gaussian Naive Bayes is used with default parameters.
 
 2.XGBoost is tuned with hyperparameters which gives more accurate results.
+
+Problem solved with +0.79 accuracy
